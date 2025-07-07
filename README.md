@@ -231,5 +231,4 @@ docker-compose -f docker-compose.lab.yml up -d
    docker-compose -f docker-compose.lab.yml logs
    ```
    ![lab](lab2.png)
-**Выполнил студент GB: Коваль С. А. группы разработчиков**
 
